@@ -1,8 +1,29 @@
-# React + Vite
+# Image Gallery Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple Image Gallery Task built with React and Vite. It features an interactive image gallery with animations.
 
-Currently, two official plugins are available:
+**Live Demo:** [View Project](https://65480900f16551161d26235f--magenta-taiyaki-9e2cc9.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kaykobadyiasin/Image-Gallery-Task.git
+   cd Image-Gallery-Task
+
+
+   * Install dependencies: npm install
+
+   * Usage Start the development client server: - npm run dev
+
+
+   Contributing-
+
+   * Feel free to contribute, report issues, or suggest improvements.
+
+   License - 
+   
+   This project is open-source and available under the MIT License.
+
+   
