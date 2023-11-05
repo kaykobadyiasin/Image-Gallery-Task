@@ -16,7 +16,7 @@ This project is a simple Image Gallery Task built with React and Vite. It featur
  ## Install dependencies
     npm install
 
-   ## Usage Start the development client server 
+## Usage Start the development client server 
    npm run dev
 
 
