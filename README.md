@@ -13,17 +13,19 @@ This project is a simple Image Gallery Task built with React and Vite. It featur
    cd Image-Gallery-Task
 
 
-   * Install dependencies: npm install
+ ## Install dependencies
+    npm install
 
-   * Usage Start the development client server: - npm run dev
+   ## Usage Start the development client server 
+   npm run dev
 
 
-   Contributing-
+   ## Contributing
 
-   * Feel free to contribute, report issues, or suggest improvements.
+   Feel free to contribute, report issues, or suggest improvements.
 
-   License - 
-   
+   ## License
+
    This project is open-source and available under the MIT License.
 
    
